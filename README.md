@@ -1,2 +1,4 @@
 # N-Counter
-Word counter for a specific word
+Discord word counter for user defined words
+
+More information to follow about the functions of the Discord bot
